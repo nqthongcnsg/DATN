@@ -1,0 +1,18 @@
+.t1{
+  width: 85%;
+}
+.t2{
+  width: 65%;
+}
+.t3{
+  width: 38%;
+}
+.t4{
+  width: 15%;
+}
+.t5{
+  width: 65%;
+}
+#chartjs-render-monitor{
+  display: block; width: 634px; height: 150px;
+}
